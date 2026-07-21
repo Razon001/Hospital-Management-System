@@ -104,3 +104,10 @@ This is a strong self-hosted foundation, not a certified HIPAA/GDPR-compliant pr
 ## Extending it
 
 Some natural next additions: lab test orders/results, SMS/email appointment reminders, multi-branch support, and an audit trail. The modular file structure (one folder per feature) makes each of these additive rather than a rewrite.
+
+<p align="center">
+   <img src="./1.png" alt="Hospital SMS">
+   <img src="./2.png" alt="Hospital SMS">
+   <img src="./3.png" alt="Hospital SMS">
+   <img src="./4.png" alt="Hospital SMS">
+</p>
