@@ -1,4 +1,4 @@
-# MediCore HMS — Hospital Management System
+# MediCore HMS  Hospital Management System
 
 A complete, production-style hospital management system built in **PHP (PDO/MySQL)** with **Bootstrap 5**. No framework required — just PHP, MySQL, and a web server.
 
